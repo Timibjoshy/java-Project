@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/pack/student.java" />
+      <file url="file://$PROJECT_DIR$/src/student1.java" />
+      <file url="file://$PROJECT_DIR$/src/fibanocci.java" />
+      <file url="file://$PROJECT_DIR$/src/example/faculty.java" />
+      <file url="file://$PROJECT_DIR$/src/first/CarParking.java" />
+      <file url="file://$PROJECT_DIR$/src/pack/ParkEx.java" />
+      <file url="file://$PROJECT_DIR$/src/sample/FileExample.java" />
+      <file url="file://$PROJECT_DIR$/src/collectionex/Calculator.java" />
+    </excludeFromCompile>
+  </component>
+</project>
